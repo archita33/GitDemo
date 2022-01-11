@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void Browserautomation()
 	{
 		System.out.println("Hello, I am in Maven Project");
+		System.out.println("Hello, I have updated the project");
 	}
 	
 }
